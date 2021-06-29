@@ -1,0 +1,1 @@
+All of the tasks which I performed for completing the internship of Sahu Technologies are in this repository. There are two web development projects, a python development project, Content writing projects and a research article.
